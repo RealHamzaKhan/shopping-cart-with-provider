@@ -7,7 +7,6 @@ import '../model/cart_model.dart';
 import '../view_model/cart_provider.dart';
 class CartProductList extends StatefulWidget {
   const CartProductList({Key? key}) : super(key: key);
-
   @override
   State<CartProductList> createState() => _CartProductListState();
 }
